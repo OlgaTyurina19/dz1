@@ -6,11 +6,11 @@
  
 В результате тестирования выявлены следующие дефекты:
  
-[Ошибка валидации 1](https://github.com/OlgaTyurina19/dz1/issues/1)
+[Номер банковской карты из 14 цифр не проходит валидацию](https://github.com/OlgaTyurina19/dz1/issues/1)
  
-[Ошибка валидации 2](https://github.com/OlgaTyurina19/dz1/issues/2)
+[Номер банковской карты из 15 цифр не проходит валидацию](https://github.com/OlgaTyurina19/dz1/issues/2)
  
-[Ошибка валидации 3](https://github.com/OlgaTyurina19/dz1/issues/3)
+[Номер банковской карты из 14 цифр не проходит валидацию](https://github.com/OlgaTyurina19/dz1/issues/3)
  
  
 ## В качестве тестовых данных использовались данные из следующего источника: https://www.freeformatter.com/credit-card-number-generator-validator.html
