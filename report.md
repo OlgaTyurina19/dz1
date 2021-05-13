@@ -6,43 +6,43 @@
  
 В результате тестирования выявлены следующие дефекты:
  
-*[Ошибка валидации 1](https://github.com/OlgaTyurina19/dz1/issues/1))
+[Ошибка валидации 1](https://github.com/OlgaTyurina19/dz1/issues/1)
  
-*[Ошибка валидации 2](https://github.com/OlgaTyurina19/dz1/issues/2)
+[Ошибка валидации 2](https://github.com/OlgaTyurina19/dz1/issues/2)
  
-*[Ошибка валидации 3](https://github.com/OlgaTyurina19/dz1/issues/3)
+[Ошибка валидации 3](https://github.com/OlgaTyurina19/dz1/issues/3)
  
  
-В качестве тестовых данных использовались данные из следующего источника: https://www.freeformatter.com/credit-card-number-generator-validator.html
+## В качестве тестовых данных использовались данные из следующего источника: https://www.freeformatter.com/credit-card-number-generator-validator.html
  
-* Diners Club - Carte Blanche:
+1. Diners Club - Carte Blanche:
   30489943417963 Expected result: Result is OK
  
-* Diners Club - International:
+2. Diners Club - International:
   36985691331664 Expected result : Result is OK
  
-* American Express (AMEX):
+3. American Express (AMEX):
   343070942499558 Expected result : Result is OK
  
-* VISA:
+4. VISA:
   4929988777834629 Expected result: Result is OK
-* Discover:
+5. Discover:
   6011348882440669 Expected result: Result is OK
-* Visa Electron:
+6. Visa Electron:
   4913133420177385 Expected result: Result is OK
-* MasterCard:
+7. MasterCard:
   2221001939727159 Expected result: Result is OK
-* JCB:
+8. JCB:
   3530765035262691 Expected result: Result is OK
-* InstaPayment:
+9. InstaPayment:
   6381791785144833 Expected result: Result is OK
-* Diners Club - North America:
+10. Diners Club - North America:
   5599401762474332 Expected result: Result is OK
-* Maestro:
+11. Maestro:
   0604237841963240 Expected result: Result is OK
  
-Тестирование производилось в следующем окружении:
+## Тестирование производилось в следующем окружении:
  
-- Google Chrome
+1. Google Chrome
   Версия 90.0.4430.93 (Официальная сборка), (64 бит)
-- 11 версия Java
+2. 11 версия Java
